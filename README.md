@@ -87,8 +87,9 @@
 <h2 align="left">Recent blogs</h2>
 
 <h6 align="left">
-  - <a href="https://diba-projects.netlify.app/writing/astro/" target="_blank" rel="noopener noreferrer">Working with Astro</a><br>
-  - <a href="https://diba-projects.netlify.app/writing/flutter-sdk/" target="_blank" rel="noopener noreferrer">Building a Flutter SDK</a>
+- <a href="https://diba-projects.netlify.app/craft/lazy-vim/" target="_blank" rel="noopener noreferrer">Neovim</a><br>
+- <a href="https://diba-projects.netlify.app/writing/astro/" target="_blank" rel="noopener noreferrer">Working with Astro</a><br>
+- <a href="https://diba-projects.netlify.app/writing/flutter-sdk/" target="_blank" rel="noopener noreferrer">Building a Flutter SDK</a>
 </h6>
 
 ###
