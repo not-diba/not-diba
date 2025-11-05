@@ -50,6 +50,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="60" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
 </div>
 
 ###
@@ -78,6 +80,16 @@
 </h5>
 
 <h3 align="left">
+  <a href="https://github.com/not-diba/Katuni" target="_blank" rel="noopener noreferrer">
+    Katuni
+  </a>
+</h3>
+
+<h5 align="left">
+  <p>My goal with this is to create an epub, pdf, cbz, and mobi reader app that I would use.</p>
+</h5>
+
+<h3 align="left">
   <a href="https://main.d1wj048yong21r.amplifyapp.com/" target="_blank" rel="noopener noreferrer">
     Kimu Foods
   </a>
@@ -91,9 +103,10 @@
 <h2 align="left">Recent blogs</h2>
 
 <h6 align="left">
+- <a href="https://diba-projects.netlify.app/craft/tmux-daily-affirmations/" target="_blank" rel="noopener noreferrer">TMUX: Daily affirmations</a><br>
 - <a href="https://diba-projects.netlify.app/craft/lazy-vim/" target="_blank" rel="noopener noreferrer">Neovim</a><br>
 - <a href="https://diba-projects.netlify.app/writing/astro/" target="_blank" rel="noopener noreferrer">Working with Astro</a><br>
-- <a href="https://diba-projects.netlify.app/writing/flutter-sdk/" target="_blank" rel="noopener noreferrer">Building a Flutter SDK</a>
+
 </h6>
 
 ###
